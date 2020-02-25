@@ -1,2 +1,2 @@
 # Comming soon...
-A video of our method: https://youtu.be/hvHEPV4i1vo
+A demo video: https://youtu.be/hvHEPV4i1vo
