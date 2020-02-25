@@ -9,4 +9,4 @@ Both the code and data will be publicly available.
 
 The demo video:
  
-[![Watch the video](https://img.youtube.com/vi/f7lMUyN2AOA/0.jpg)](https://youtu.be/fNU5TQ7rQ_4)
+[![Watch the video](https://img.youtube.com/vi/fNU5TQ7rQ_4/0.jpg)](https://youtu.be/fNU5TQ7rQ_4)
