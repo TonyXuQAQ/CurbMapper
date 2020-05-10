@@ -3,9 +3,7 @@ This is the implementation of paper **CurbMapper: Detecting Road Curbs with Topo
 
 Authors: Zhenhua Xu, Yuxiang Sun and Ming Liu
 
-# Code and Data
-
-Both the code and data will be publicly available.
+# Demo vedio
 
 The demo video:
  
