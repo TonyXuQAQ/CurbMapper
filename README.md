@@ -13,4 +13,4 @@ The demo video:
 
 The supplementary document:
 
-[Supplementary file](https://github.com/TonyXuQAQ/CurbMapper/supplementary.pdf)
+[Supplementary file](https://github.com/TonyXuQAQ/CurbMapper/blob/master/supplementary.pdf)
