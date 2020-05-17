@@ -7,7 +7,7 @@ Authors: Zhenhua Xu, Yuxiang Sun and Ming Liu
 
 The demo video:
  
-[![Watch the video](https://img.youtube.com/vi/PViBIdjxw6c/0.jpg)](https://www.youtube.com/watch?v=PViBIdjxw6c)
+[![Watch the video](https://img.youtube.com/vi/--gU7TIq8jM/0.jpg)](https://youtu.be/--gU7TIq8jM)
 
 # Supplymentary document
 
